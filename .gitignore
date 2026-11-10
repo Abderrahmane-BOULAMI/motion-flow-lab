@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/data*.pt
+results/model/
+results/*_quick.json
+tools/node_modules
+tools/render_cache/

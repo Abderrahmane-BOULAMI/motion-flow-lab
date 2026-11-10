@@ -1,0 +1,6 @@
+torch>=2.2
+mujoco>=3.1
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.0
+pytest>=8.0
